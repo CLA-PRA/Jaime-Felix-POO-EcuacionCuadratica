@@ -15,7 +15,7 @@ public class Principal {
         // Crear objeto ecuacion cuadratica
         EcuacionCuadratica ec = new EcuacionCuadratica( a, b, c );
 
-        // Mostrar la ecuación cuadratica
+        // Mostrar la ecuacion cuadratica
         System.out.println();
         System.out.println( ec );
 
