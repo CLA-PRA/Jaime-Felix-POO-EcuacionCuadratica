@@ -1,0 +1,3 @@
+./miTest/AppTest.java
+./miPrincipal/EcuacionCuadratica.java
+./miPrincipal/Principal.java
